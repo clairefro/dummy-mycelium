@@ -1,0 +1,3 @@
+[submodule "dummy-main"]
+	path = dummy-main
+	url = https://github.com/clairefro/dummy-main
